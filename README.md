@@ -24,6 +24,7 @@ JavaDoc documentation for each program is available in the docs folder of their 
 ## **Contributors**
 Jordan Dubreuil (JDubreuil00)
 
+
 ## **License**
 This project is licensed under the MIT open source license - see the LICENSE.md file for details.
 
