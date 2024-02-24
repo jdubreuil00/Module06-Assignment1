@@ -1,8 +1,9 @@
-Integer Sorting Project
-Purpose
+# Integer Sorting Project
+
+## **Purpose**
 The Integer Sorting Project is designed to take in a set of integers and  sort them into either a linked list or a stack collection.
 
-Features
+### **Features**
 Written in Java using Java Collections for efficient data handling.
 Allows sorting of integers into either a linked list or a stack collection based on which program you are using.
 
